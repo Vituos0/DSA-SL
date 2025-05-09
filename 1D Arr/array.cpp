@@ -10,4 +10,5 @@ int main(int argc, const char** argv) {
         cout<<"a["<<i<<"]="<< a[i]<<"\t";
     }
     return 0;
+    
 }

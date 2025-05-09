@@ -15,7 +15,7 @@ int main(){
 //    }
     cin>>k>>x;
 
-    for (int i=n;i >= k;i--){
+    for (int i=n;i>=k;i--){
         a[i]=a[i-1];
     }
     a[k]=x;

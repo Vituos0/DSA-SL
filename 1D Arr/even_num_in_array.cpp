@@ -5,7 +5,7 @@ using namespace std;
 bool check(int x){
 		if(x%2==0) return true;
 		else return false;
-//		return true;
+
 }
 
 int main(){
